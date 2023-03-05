@@ -3,7 +3,7 @@
 # How it looks?
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
-
+(click to view the full video)
 
 In a larger scope:
 
