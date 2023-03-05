@@ -3,7 +3,7 @@
 # How it looks?
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
-[Click here to view the full video.](https://youtu.be/JSUE-Y-mXNA)
+
 
 In a larger scope:
 
@@ -21,7 +21,7 @@ In a larger scope:
 
 I used white as the background color to be clean and pure. I put the large digits and the background of the last sentence in pink to show a sense of romance. The digits “520” pronounce similar to “I love you” in Mandarin, and the digits “1314” pronounce similar to the expression of one’s whole lifetime in a poetic way. These digits putting together is a common expression of love for the whole lifetime that Chinese people might use. It is romantic to receive and see this message. I thought of this idea as the valentine’s day just pasted and people who are single or haven’t found loved partners, or even are feeling painful in a relationship should love themselves instead. I put the sentences “Please love yourself”, and “It’s more important than loving anyone else in the world” below the large digits, in order to emphasize that loving oneself is very important and to support people on being their true self and care about themselves more. The words “Please love yourself” is shown subsequently with an exclamation point at the end of each words to express the power and firmness of suggesting people to love themselves whatever they encountered, whatever doubts or difficulties they faced.
 
-# How does it fit in the context
+# How does it fit in the context?
 
 It accidentally fit well with the surrounding ESP32s, as one nearby ESP32 is displaying a pink large heart shape, with mesaages like “HUG ME”, “TEXT ME”, “I luv U” showing in turn inside the heart. Together with that ESP32, a more romantic and amorous vibe is created. These two ESP32s together is all about love, and aim to give people the hope for love, and romantic expectations for love.
 
@@ -69,3 +69,6 @@ Some discussions on solving the problem can be found [here](https://github.com/X
 I personally have a Mac with Intel chip, and I solved the problem using the link [here](http://www.wch-ic.com/downloads/CH341SER_MAC_ZIP.html) to download the driver. And then in Arduino, the port as shown below should be selected.
 
 ![screen_shot.png](screen_shot.png)
+
+# Notes:
+The link to the github repo of this github page is [here](https://github.com/Amandaaa00/Amandaaa00.github.io).
