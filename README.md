@@ -23,7 +23,7 @@ In a larger scope:
 
 - **Pink & White (Choice of font and background color)**
 - **Large digits with meanings**
-- **Split the sentence into words**
+- **Split the sentence into separate words**
 - **Shown subsequently and recurrently**
 - **Choice of background music**
 
