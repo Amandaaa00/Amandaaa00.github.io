@@ -24,13 +24,18 @@ In a larger scope:
 - **Pink & White (Choice of font and background color)**
 - **Large digits with meanings**
 - **Split the sentence into words**
-- **Shown subsequently and repetitively**
+- **Shown subsequently and recurrently**
+- **Choice of background music**
 
 I used white as the background color to be clean and pure. I put the large digits and the background of the last sentence in pink to show a sense of romance. The digits “520” pronounce similar to “I love you” in Mandarin, and the digits “1314” pronounce similar to the expression of one’s whole lifetime in a poetic way. These digits putting together is a common expression of love for the whole lifetime that Chinese people might use. It is romantic to receive and see this message. I thought of this idea as the valentine’s day just pasted and people who are single or haven’t found loved partners, or even are feeling painful in a relationship should love themselves instead. I put the sentences “Please love yourself”, and “It’s more important than loving anyone else in the world” below the large digits, in order to emphasize that loving oneself is very important and to support people on being their true self and care about themselves more. The words “Please love yourself” is shown subsequently with an exclamation point at the end of each words to express the power and firmness of suggesting people to love themselves whatever they encountered, whatever doubts or difficulties they faced.
 
 # How does it fit in the context?
 
+### 1. Neighbors
 It accidentally fit well with the surrounding ESP32s, as one nearby ESP32 is displaying a pink large heart shape, with mesaages like “HUG ME”, “TEXT ME”, “I luv U” showing in turn inside the heart. Together with that ESP32, a more romantic and amorous vibe is created. These two ESP32s together is all about love, and aim to give people the hope for love, and romantic expectations for love.
+
+### 2. The deliverable video
+In the video, people's voices in the background are eliminated, and a piece of music with sense of peace and hope takes place. The rising tone and descending tone match the increase and decrease of brightness in the video. Using this method, I tried to convey some emotion of rising hope and regaining peacefulness. The backgorund music is overall smooth and soft, giving people support and sense of hope, and relieving pressure.
 
 # Guide: How to display visuals on the ESP32 TTGO T-Display
 
