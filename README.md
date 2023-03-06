@@ -19,6 +19,13 @@ In a larger scope:
 - **Hope**
 - **Support**
 
+### Creative elements
+
+- **Pink & White (Choice of font and background color)**
+- **Large digits with meanings**
+- **Split the sentence into words**
+- **Shown subsequently and repetitively**
+
 I used white as the background color to be clean and pure. I put the large digits and the background of the last sentence in pink to show a sense of romance. The digits “520” pronounce similar to “I love you” in Mandarin, and the digits “1314” pronounce similar to the expression of one’s whole lifetime in a poetic way. These digits putting together is a common expression of love for the whole lifetime that Chinese people might use. It is romantic to receive and see this message. I thought of this idea as the valentine’s day just pasted and people who are single or haven’t found loved partners, or even are feeling painful in a relationship should love themselves instead. I put the sentences “Please love yourself”, and “It’s more important than loving anyone else in the world” below the large digits, in order to emphasize that loving oneself is very important and to support people on being their true self and care about themselves more. The words “Please love yourself” is shown subsequently with an exclamation point at the end of each words to express the power and firmness of suggesting people to love themselves whatever they encountered, whatever doubts or difficulties they faced.
 
 # How does it fit in the context?
