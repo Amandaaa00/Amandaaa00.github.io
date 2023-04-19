@@ -16,7 +16,7 @@ I connected the GND pin of joystick to G pin of ESP32, the +5V pin of joystick t
 Following the previous tutorial again in Chapter 2.
 I connected the upper pin of the button to ESP32's 17, and the lower pin of the button to ESP32's another G pin.
 
-![bread_board.jpeg](bread_board.jpeg)
+![pic/bread_board.jpeg](pic/bread_board.jpeg)
 
 *connected bread board*
 
@@ -37,7 +37,7 @@ The video of running the program and the resulting animation is here.
 # Build the enclosure
 1. Use hard white paper and cut them into appropriate size.
 
-![paper.jpeg](paper.jpeg)
+![pic/paper.jpeg](pic/paper.jpeg)
 
 2. Cut out the contour of the parts of interactive deivices that need to interact with and fold the paper.
 
@@ -47,15 +47,15 @@ The video of running the program and the resulting animation is here.
 4. Draw the bath tube, water ripples, soap, small toy duck on the water
 5. Decorate with woolen yarn and little beads
 
-![dec.jpeg](dec.jpeg)
+![pic/dec.jpeg](pic/dec.jpeg)
 
 *decorations*
 
-![draw.jpeg](draw.jpeg)
+![pic/draw.jpeg](pic/draw.jpeg)
 
 *detailed drawings*
 
-![whole.jpeg](whole.jpeg)
+![pic/whole.jpeg](pic/whole.jpeg)
 
 *overview of the enclosure*
 
