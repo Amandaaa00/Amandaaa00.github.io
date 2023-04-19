@@ -5,7 +5,8 @@
 
 ## How it looks?
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
+![pic/draw.jpeg](pic/draw.jpeg)
+//[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
 (click to view the full video)
 [video to be uploaded]
 
@@ -15,14 +16,11 @@
 - Press the joystick multiple times to choose a color you like
 - Repeat the previous process -- When the bubbles reach the maximum, which is 100, it will start all over again!
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
-(click to view the full video)
 [video to be uploaded]
 
 
 ## Visualization on laptop?
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
-(click to view the full video)
+
 [video to be uploaded]
 
 # Why looks like this?
@@ -83,7 +81,7 @@ Firstly, connect the ESP32 to the computer and run the Arduino. Then run the Pro
 Running this program, an animation interface will be created by Processing. Initially, there are 6 bubbles on the screen. They collide with each other freely and rise slowly to the top. When we scroll the joystick to different positions, and then press the button, there will be more bubbles created, which then collide with each other freely and slowly rise to the top. And when the joystick is pressed, the bubbles will change to different colors. Each time the joystick the pressed, the bubbles will all change to a randomly different color. 
 
 The video of running the program and the resulting animation is here.
-[]
+[to be uploaded]
 
 # Build the enclosure
 1. Use hard white paper and cut them into appropriate size.
@@ -116,4 +114,5 @@ The connection of joystick and button to the breadboard can be unstable, especia
 ### 2. Simulating the bubbles behavior
 It's hard to simulate the bubbles behavior and making it seem realistic. The collide void, and move void are pretty complicated, and all of the bubbles must be in an array in order to deal with their interaction. I referenced some code from the Processing Example, and tried to find the best index of gravity, friction, and spring factors that have influence in the collide and move voids.
 
-# Note
+# Notes:
+The link to the github repo of this github page is [here](https://github.com/Amandaaa00/Amandaaa00.github.io).
