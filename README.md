@@ -7,6 +7,9 @@
 
 ![pic/draw.jpeg](pic/draw.jpeg)
 
+
+![pic/bubb.png](pic/bubb.png)
+
 [video to be uploaded]
 
 ## How to Interact?
