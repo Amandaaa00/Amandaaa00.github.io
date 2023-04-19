@@ -6,8 +6,7 @@
 ## How it looks?
 
 ![pic/draw.jpeg](pic/draw.jpeg)
-//[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
-(click to view the full video)
+
 [video to be uploaded]
 
 ## How to Interact?
