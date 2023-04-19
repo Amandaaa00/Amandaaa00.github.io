@@ -1,3 +1,54 @@
+
+# Playing with Bubbles !!!!
+
+## - *Interacting with Devices*
+
+## How it looks?
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
+(click to view the full video)
+[video to be uploaded]
+
+## How to Interact?
+- Scroll the joystick to choose a position
+- Press the button to release more bubbles
+- Press the joystick multiple times to choose a color you like
+- Repeat the previous process -- When the bubbles reach the maximum, which is 100, it will start all over again!
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
+(click to view the full video)
+[video to be uploaded]
+
+
+## Visualization on laptop?
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JSUE-Y-mXNA/0.jpg)](http://www.youtube.com/watch?v=JSUE-Y-mXNA "Love Yourself")
+(click to view the full video)
+[video to be uploaded]
+
+# Why looks like this?
+
+### Keywords
+
+- **Take a rest**
+- **Bath**
+- **Comfortable**
+- **Playful**
+- **Colorful**
+
+### Creative elements
+
+- **Design of bath tube**
+- **Play with bubbles with different colors**
+- **Detailed drawings and decorations**
+- **Animation of bubbles colliding and rising**
+- **Choice of overall colors: blue, white, pink**
+
+### How to think about it?
+Imagine you are lying in the bath tube, enjoying the moment. There are so many bubbles in the bath tube, and you are playing with them, releasing them to the sky and creating more bubbles. You have a little duck toy floating on the water, and a fluffy bath ball to create bubbles. Soft and refreshing music in playing in the background. You are so comfortable and restful, just like going back to a carefree childhood.
+
+### The Process
+I used white hard paper as the enclosure as it is white and clear and is also easy to draw and incorporate decorations on it. I tried hard to animate the bubbles movement as realistic as possible. The visualization on laptop starts with relatively realistic animation, as the bubbles are in normal color, and then you can switch them to some random unrealistic colors, such as pink, yellow, purple and etc. I want the user to enjoy the moment of releasing so many bubbles and seeing them colliding each other and moving freely and want to deliver the sense of restfulness and playfulness. 
+
 # Technical Documentations: Interactive Devices
 
 # Guide: How to create an interactive device?
@@ -64,3 +115,5 @@ The video of running the program and the resulting animation is here.
 The connection of joystick and button to the breadboard can be unstable, especially for the joystick. I noticed that the value of whether the joystick is pressed is continuously changing when it is not pressed, showing the connection of it is unstable. So in the Processing program, I avoid the function that would check the times or frequency of the joystick is not pressed.
 ### 2. Simulating the bubbles behavior
 It's hard to simulate the bubbles behavior and making it seem realistic. The collide void, and move void are pretty complicated, and all of the bubbles must be in an array in order to deal with their interaction. I referenced some code from the Processing Example, and tried to find the best index of gravity, friction, and spring factors that have influence in the collide and move voids.
+
+# Note
