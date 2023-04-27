@@ -13,6 +13,7 @@
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Ev-FJLkq6SU/0.jpg)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
 
 *Go to the "tube"!* 
+
 (click to view the full video)
 
 ## How to Interact?
@@ -24,6 +25,7 @@
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the 'tube'! ")
 
 *Interact with the "tube"!* 
+
 (click to view the full video)
 
 
@@ -32,6 +34,7 @@
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/m1PERZE7dvE/0.jpg)](http://www.youtube.com/watch?v=m1PERZE7dvE)
 
 *Play with bubbles!* 
+
 (click to view the full video)
 
 # Why looks like this?
@@ -126,7 +129,7 @@ The video of running the program and the resulting animation is here.
 ### 1. Unstable wire connection
 The connection of joystick and button to the breadboard can be unstable, especially for the joystick. I noticed that the value of whether the joystick is pressed is continuously changing when it is not pressed, showing the connection of it is unstable. So in the Processing program, I avoid the function that would check the times or frequency of the joystick is not pressed.
 ### 2. Simulating the bubbles behavior
-It's hard to simulate the bubbles behavior and making it seem realistic. The collide void, and move void are pretty complicated, and all of the bubbles must be in an array in order to deal with their interaction. I referenced some code from the Processing Example, and tried to find the best index of gravity, friction, and spring factors that have influence in the collide and move voids. The final result is even still imperfect, and I just tried to make it seems more like bubble behaviors.
+It's hard to simulate the bubbles behavior and making it seem realistic. The collide void, and move void are pretty complicated, and all of the bubbles must be in an array in order to deal with their interaction. I referenced some code from the Processing Example, and tried to find the best index of gravity, friction, and spring factors that have influence in the collide and move voids. The final result is even still imperfect, and I just tried to make it seem more like bubble behaviors.
 
 # Notes:
 The link to the github repo of this github page is [here](https://github.com/Amandaaa00/Amandaaa00.github.io).
