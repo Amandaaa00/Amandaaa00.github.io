@@ -12,7 +12,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Ev-FJLkq6SU/0.jpg)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
 
-*Go to play with bubbles!~~ * (click to view the full video)
+*Go to play with bubbles!* (click to view the full video)
 
 ## How to Interact?
 - Scroll the joystick to choose a position
@@ -22,7 +22,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the 'tube'! ")
 
-(click to view the full video)
+*Interact with the "tube"* (click to view the full video)
 
 
 ## Visualization on laptop?
