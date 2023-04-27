@@ -12,7 +12,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Ev-FJLkq6SU/0.jpg)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
 
-(click to view the full video)
+*Go to play with bubbles!~~ * (click to view the full video)
 
 ## How to Interact?
 - Scroll the joystick to choose a position
