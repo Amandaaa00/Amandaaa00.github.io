@@ -11,6 +11,8 @@
 ![pic/bubb.png](pic/bubb.png)
 
 [video to be uploaded]
+[![IMAGE ALT TEXT](https://youtu.be/Ev-FJLkq6SU)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
+(click to view the full video)
 
 ## How to Interact?
 - Scroll the joystick to choose a position
