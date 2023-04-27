@@ -12,7 +12,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Ev-FJLkq6SU/0.jpg)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
 
-*Go to the "tube"!* 
+# *Go to the "tube"!* 
 
 (click to view the full video)
 
@@ -24,7 +24,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the 'tube'! ")
 
-*Interact with the "tube"!* 
+# *Interact with the "tube"!* 
 
 (click to view the full video)
 
@@ -33,7 +33,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/m1PERZE7dvE/0.jpg)](http://www.youtube.com/watch?v=m1PERZE7dvE)
 
-*Play with bubbles!* 
+# *Play with bubbles!* 
 
 (click to view the full video)
 
