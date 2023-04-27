@@ -12,7 +12,7 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Ev-FJLkq6SU/0.jpg)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
 
-*Go to play with bubbles!* (click to view the full video)
+*Go to the "tube"!* (click to view the full video)
 
 ## How to Interact?
 - Scroll the joystick to choose a position
@@ -22,12 +22,13 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the 'tube'! ")
 
-*Interact with the "tube"* (click to view the full video)
+*Interact with the "tube"!* (click to view the full video)
 
 
 ## Visualization on laptop?
 
-[video to be uploaded]
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/m1PERZE7dvE/0.jpg)](http://www.youtube.com/watch?v=m1PERZE7dvE)
+*Play with bubbles!* (click to view the full video)
 
 # Why looks like this?
 
@@ -87,7 +88,9 @@ Firstly, connect the ESP32 to the computer and run the Arduino. Then run the Pro
 Running this program, an animation interface will be created by Processing. Initially, there are 6 bubbles on the screen. They collide with each other freely and rise slowly to the top. When we scroll the joystick to different positions, and then press the button, there will be more bubbles created, which then collide with each other freely and slowly rise to the top. And when the joystick is pressed, the bubbles will change to different colors. Each time the joystick the pressed, the bubbles will all change to a randomly different color. 
 
 The video of running the program and the resulting animation is here.
-[to be uploaded]
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/m1PERZE7dvE/0.jpg)](http://www.youtube.com/watch?v=m1PERZE7dvE)
+*Play with bubbles!* (click to view the full video)
 
 # Build the enclosure
 1. Use hard white paper and cut them into appropriate size.
