@@ -20,8 +20,7 @@
 - Press the joystick multiple times to choose a color you like
 - Repeat the previous process -- When the bubbles reach the maximum, which is 100, it will start all over again!
 
-
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the "tube"! ")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the 'tube'! ")
 
 (click to view the full video)
 
