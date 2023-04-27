@@ -12,7 +12,8 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/Ev-FJLkq6SU/0.jpg)](http://www.youtube.com/watch?v=Ev-FJLkq6SU "Go to play with bubbles!")
 
-*Go to the "tube"!* (click to view the full video)
+*Go to the "tube"!* 
+(click to view the full video)
 
 ## How to Interact?
 - Scroll the joystick to choose a position
@@ -22,13 +23,16 @@
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/6CObfLp1o9Y/0.jpg)](http://www.youtube.com/watch?v=6CObfLp1o9Y "Interact with the 'tube'! ")
 
-*Interact with the "tube"!* (click to view the full video)
+*Interact with the "tube"!* 
+(click to view the full video)
 
 
 ## Visualization on laptop?
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/m1PERZE7dvE/0.jpg)](http://www.youtube.com/watch?v=m1PERZE7dvE)
-*Play with bubbles!* (click to view the full video)
+
+*Play with bubbles!* 
+(click to view the full video)
 
 # Why looks like this?
 
@@ -90,7 +94,8 @@ Running this program, an animation interface will be created by Processing. Init
 The video of running the program and the resulting animation is here.
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/m1PERZE7dvE/0.jpg)](http://www.youtube.com/watch?v=m1PERZE7dvE)
-*Play with bubbles!* (click to view the full video)
+
+(click to view the full video)
 
 # Build the enclosure
 1. Use hard white paper and cut them into appropriate size.
